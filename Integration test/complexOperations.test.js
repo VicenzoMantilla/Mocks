@@ -3,8 +3,8 @@ import * as complexOperations from './complexOperations';
 
 describe('complexOperation - Unit Tests', () => {
   describe('checkEmail', () => {
-    it('first test for checkEmail', () => {
-      
+    it('Validate the email exist', () => {
+      expect(complexOperations.checkEmail('')).toBe('s')
     });
   });
 
