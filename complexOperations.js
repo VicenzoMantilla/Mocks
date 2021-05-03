@@ -22,7 +22,7 @@ import {
 */
 export const checkEmail = (email) => {
   if (!email || !isString(email)) {
-    return 'The email should be an string';
+    return 'The email should be a string';
   }
   const isValidEmail = validateEmail(email);
   if (!isValidEmail) {
@@ -83,13 +83,13 @@ export const calculateArea = (figure, number1, number2 = 0) => {
  * @param {number} number3
  * @returns {string}
 */
-export const sumGratherThan = (number1, number2, number3) => {
+export const sumGreaterThan = (number1, number2, number3) => {
   if (!isNumber(number1) || !isNumber(number2) || !isNumber(number3)) {
     return 'The params should be numbers';
   }
   const sumResult = sum(number1, number2);
   if (sumResult > number3) {
-    return `${sumResult} is grather than ${number3}`;
+    return `${sumResult} is greater than ${number3}`;
   }
   return `${sumResult} is less than ${number3}`;
 }
@@ -166,7 +166,7 @@ export const numberOfOddAndEvenNumbers = (array) => {
   }
 }
 
-console.log(numberOfOddAndEvenNumbers([1, 4, 5, 8, 9]));
-console.log(numberOfOddAndEvenNumbers([1.3, 4.2]));
-console.log(numberOfOddAndEvenNumbers());
-console.log(numberOfOddAndEvenNumbers([1, 'string']));
+//console.log(numberOfOddAndEvenNumbers([1, 4, 5, 8, 9]));
+//console.log(numberOfOddAndEvenNumbers([1.3, 4.2]));
+//console.log(numberOfOddAndEvenNumbers());
+//console.log(numberOfOddAndEvenNumbers([1, 'string']));
