@@ -1,19 +1,94 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1619401076664" clover="3.2.0">
-  <project timestamp="1619401076664" name="All files">
-    <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2" elements="9" coveredelements="9" complexity="0" loc="7" ncloc="7" packages="1" files="2" classes="2"/>
-    <file name="complexOperations.js" path="C:\Users\PC\OneDrive\Documentos\Curso Radium\Personal\Semana 13\complexOperations.js">
-      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-      <line num="3" count="1" type="stmt"/>
-      <line num="4" count="1" type="stmt"/>
+<coverage generated="1620182680205" clover="3.2.0">
+  <project timestamp="1620182680206" name="All files">
+    <metrics statements="82" coveredstatements="81" conditionals="49" coveredconditionals="48" methods="25" coveredmethods="25" elements="156" coveredelements="154" complexity="0" loc="82" ncloc="82" packages="1" files="2" classes="2"/>
+    <file name="basicOperations.js" path="C:\Users\VICENZO\Desktop\Week13\basicOperations.js">
+      <metrics statements="35" coveredstatements="34" conditionals="4" coveredconditionals="3" methods="19" coveredmethods="19"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="77" type="stmt"/>
       <line num="5" count="1" type="stmt"/>
+      <line num="6" count="39" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="10" count="16" type="stmt"/>
+      <line num="13" count="1" type="stmt"/>
+      <line num="14" count="7" type="stmt"/>
+      <line num="15" count="7" type="stmt"/>
+      <line num="18" count="1" type="stmt"/>
+      <line num="19" count="4" type="stmt"/>
+      <line num="22" count="1" type="stmt"/>
+      <line num="23" count="5" type="stmt"/>
+      <line num="26" count="1" type="stmt"/>
+      <line num="27" count="1" type="stmt"/>
+      <line num="30" count="1" type="stmt"/>
+      <line num="31" count="1" type="stmt"/>
+      <line num="34" count="1" type="stmt"/>
+      <line num="35" count="12" type="stmt"/>
+      <line num="36" count="12" type="stmt"/>
+      <line num="39" count="1" type="stmt"/>
+      <line num="40" count="10" type="stmt"/>
+      <line num="43" count="1" type="stmt"/>
+      <line num="44" count="17" type="stmt"/>
+      <line num="47" count="1" type="stmt"/>
+      <line num="48" count="2" type="stmt"/>
+      <line num="49" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="50" count="2" type="stmt"/>
+      <line num="52" count="2" type="cond" truecount="1" falsecount="1"/>
+      <line num="53" count="0" type="stmt"/>
+      <line num="55" count="2" type="stmt"/>
+      <line num="59" count="1" type="stmt"/>
+      <line num="60" count="26" type="stmt"/>
+      <line num="63" count="1" type="stmt"/>
+      <line num="64" count="23" type="stmt"/>
     </file>
-    <file name="operactions.mock.js" path="C:\Users\PC\OneDrive\Documentos\Curso Radium\Personal\Semana 13\operactions.mock.js">
-      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-      <line num="3" count="1" type="stmt"/>
-      <line num="4" count="1" type="stmt"/>
-      <line num="6" count="1" type="stmt"/>
-      <line num="7" count="1" type="stmt"/>
+    <file name="complexOperations.js" path="C:\Users\VICENZO\Desktop\Week13\complexOperations.js">
+      <metrics statements="47" coveredstatements="47" conditionals="45" coveredconditionals="45" methods="6" coveredmethods="6"/>
+      <line num="23" count="1" type="stmt"/>
+      <line num="24" count="12" type="cond" truecount="4" falsecount="0"/>
+      <line num="25" count="3" type="stmt"/>
+      <line num="27" count="9" type="stmt"/>
+      <line num="28" count="9" type="cond" truecount="2" falsecount="0"/>
+      <line num="29" count="5" type="stmt"/>
+      <line num="31" count="4" type="stmt"/>
+      <line num="47" count="1" type="cond" truecount="1" falsecount="0"/>
+      <line num="48" count="15" type="cond" truecount="4" falsecount="0"/>
+      <line num="49" count="3" type="stmt"/>
+      <line num="51" count="12" type="cond" truecount="4" falsecount="0"/>
+      <line num="52" count="2" type="stmt"/>
+      <line num="54" count="10" type="cond" truecount="5" falsecount="0"/>
+      <line num="57" count="5" type="stmt"/>
+      <line num="59" count="2" type="stmt"/>
+      <line num="62" count="2" type="stmt"/>
+      <line num="63" count="2" type="stmt"/>
+      <line num="65" count="1" type="stmt"/>
+      <line num="86" count="1" type="stmt"/>
+      <line num="87" count="9" type="cond" truecount="5" falsecount="0"/>
+      <line num="88" count="3" type="stmt"/>
+      <line num="90" count="6" type="stmt"/>
+      <line num="91" count="6" type="cond" truecount="2" falsecount="0"/>
+      <line num="92" count="3" type="stmt"/>
+      <line num="94" count="3" type="stmt"/>
+      <line num="108" count="1" type="stmt"/>
+      <line num="109" count="11" type="cond" truecount="4" falsecount="0"/>
+      <line num="110" count="4" type="stmt"/>
+      <line num="112" count="7" type="stmt"/>
+      <line num="113" count="7" type="cond" truecount="2" falsecount="0"/>
+      <line num="114" count="3" type="stmt"/>
+      <line num="116" count="4" type="stmt"/>
+      <line num="131" count="1" type="stmt"/>
+      <line num="132" count="11" type="cond" truecount="2" falsecount="0"/>
+      <line num="133" count="3" type="stmt"/>
+      <line num="135" count="8" type="cond" truecount="4" falsecount="0"/>
+      <line num="136" count="3" type="stmt"/>
+      <line num="138" count="5" type="cond" truecount="2" falsecount="0"/>
+      <line num="139" count="2" type="stmt"/>
+      <line num="141" count="3" type="stmt"/>
+      <line num="155" count="1" type="stmt"/>
+      <line num="156" count="12" type="cond" truecount="2" falsecount="0"/>
+      <line num="157" count="3" type="stmt"/>
+      <line num="159" count="9" type="stmt"/>
+      <line num="160" count="9" type="cond" truecount="2" falsecount="0"/>
+      <line num="161" count="2" type="stmt"/>
+      <line num="163" count="7" type="stmt"/>
     </file>
   </project>
 </coverage>
