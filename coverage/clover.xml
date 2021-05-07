@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1620182680205" clover="3.2.0">
-  <project timestamp="1620182680206" name="All files">
+<coverage generated="1620262733159" clover="3.2.0">
+  <project timestamp="1620262733159" name="All files">
     <metrics statements="82" coveredstatements="81" conditionals="49" coveredconditionals="48" methods="25" coveredmethods="25" elements="156" coveredelements="154" complexity="0" loc="82" ncloc="82" packages="1" files="2" classes="2"/>
     <file name="basicOperations.js" path="C:\Users\VICENZO\Desktop\Week13\basicOperations.js">
       <metrics statements="35" coveredstatements="34" conditionals="4" coveredconditionals="3" methods="19" coveredmethods="19"/>
