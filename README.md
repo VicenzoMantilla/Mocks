@@ -1,4 +1,4 @@
-# WEEK 13 - Integration tests & Mock.
+# WEEK 13 - Integration tests, Mocks & Automation.
 
 **Version 1.0.0**
 
