@@ -8,7 +8,7 @@ INTEGRATIONS TEST & AUTOMATION.
 
 ## Test Automation
 
-The following files contain functions and integration tests.
+The following files contain functions,integration tests and an automation test.
 
 ---
 
