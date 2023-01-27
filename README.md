@@ -1,4 +1,4 @@
-# WEEK 13 - Integration tests, Mocks & Automation.
+# Integration tests, Mocks & Automation.
 
 **Version 1.0.0**
 
@@ -20,4 +20,4 @@ The following files contain functions,integration tests and an automation test.
 
 ## License & Copyright
 
-© Vicenzo Mantilla, Radium Rocket Course.
+© Vicenzo Mantilla
